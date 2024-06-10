@@ -177,3 +177,4 @@ C:\Users\admin\Documents\APISistemaVenta\SistemaVenta.API\obj\Debug\net7.0\refin
 C:\Users\admin\Documents\APISistemaVenta\SistemaVenta.API\obj\Debug\net7.0\SistemaVenta.API.pdb
 C:\Users\admin\Documents\APISistemaVenta\SistemaVenta.API\obj\Debug\net7.0\SistemaVenta.API.genruntimeconfig.cache
 C:\Users\admin\Documents\APISistemaVenta\SistemaVenta.API\obj\Debug\net7.0\ref\SistemaVenta.API.dll
+C:\Users\admin\Documents\APISistemaVenta\SistemaVenta.API\obj\Debug\net7.0\SistemaVenta.API.sourcelink.json
